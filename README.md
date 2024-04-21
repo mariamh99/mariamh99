@@ -45,7 +45,15 @@
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%231F7A89.svg?style=for-the-badge)
+
+# 🎬 Design Stack:
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-%23FF3366.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%230056FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobexd&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mariamh99&hide_border=false&include_all_commits=true&count_private=true)<br/>
