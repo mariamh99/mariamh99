@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I am a computer science graduate and aspiring graphic designer passionate about leveraging technology to solve real-world problems, while also exploring the creative realm of design.
+✨ I am an aspiring computer scientist and graphic designer passionate about leveraging technology to solve real-world problems, while also exploring the creative realm of design.
 
 # 🌐 Contact me via:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamh99@gmail.com)
