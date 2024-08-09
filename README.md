@@ -5,7 +5,7 @@
 # 🌐 Contact me via:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamh99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://bh.linkedin.com/in/mariam-hussein-bb24ba150/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://mariamh99.myportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://mariamh99.myportfolio.com)
 
 # 💻 Tech Stack:
 
