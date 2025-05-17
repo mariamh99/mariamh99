@@ -4,7 +4,7 @@
 
 # 🌐 Contact me via:
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariamh99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://bh.linkedin.com/in/mariam-hussein-bb24ba150/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-husseinzein/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=adobe&logoColor=white)](https://mariamh99.myportfolio.com)
 
 # 💻 Tech Stack:
@@ -61,4 +61,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mariamh99&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mariamh99&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamh99&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mariamh99&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamh99&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
